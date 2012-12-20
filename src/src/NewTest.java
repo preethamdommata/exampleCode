@@ -23,4 +23,8 @@ public class NewTest {
 	public void methodtesting(){
 		System.out.println("preetham reddy");
 	}
+	@Test
+	public void testing(){
+		System.out.println("Testing of the application");
+	}
 }
