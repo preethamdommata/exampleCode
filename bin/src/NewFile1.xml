@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Default suite">
+
+<test name="Default test">
+<parameter name="firstname" value="10"/>
+<classes>
+<class name="src.NewTest4"/>
+<class name="src.NewTest"/>
+</classes>
+</test>
+</suite>
