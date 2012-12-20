@@ -26,4 +26,9 @@ public class NewTest {
 	@Test
 	public void testing7(){
 	System.out.println("testing7");
+	}
+	@Test
+	public void testing(){
+		System.out.println("Testing of the application");
+	}
 }
